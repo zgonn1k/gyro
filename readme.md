@@ -16,7 +16,7 @@ df_gyro
 
 <div>
 <style scoped>
-<!--     .dataframe tbody tr th:only-of-type {
+    .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
 
@@ -26,7 +26,7 @@ df_gyro
 
     .dataframe thead th {
         text-align: right;
-    } -->
+    }
 </style>
 <table border="1" class="dataframe">
   <thead>
