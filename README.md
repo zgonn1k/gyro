@@ -30,6 +30,9 @@ ___
 
 ![png](CC.png)
 
+
+# Анализ данных с гироскопа
+
 ```python
 import pandas as pd
 import numpy as np
