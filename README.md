@@ -1,3 +1,5 @@
+# О проекте
+Наш проект нацелен на получении и обработки данных с волоконно-оптического гироскопа для создания фильтров, осуществляющих подавление шумов, которые возникают при работе гироскопа.
 
 # Что такое Veryslot 2?
 Программа __Veryslot 2__ предназначена для осуществления настройки, визуализации и регистрации данных, поступающих с устройств по интерфейсу __CAN__ или __RS232__.
@@ -360,7 +362,7 @@ printSpectrum(gyro_z, N, 'Z axis')
 
 ### Необходимые программы
 Для того, чтобы запустить скрипт _**Gyro.ipynb**_ необходимо, чтобы в системе были установлены следующие программы:
-1. __*Python 3*__ 
+1. __*Python 3.10.8*__ 
 
 Скачать можно с официального сайта: https://www.python.org/downloads/
 
@@ -375,11 +377,12 @@ printSpectrum(gyro_z, N, 'Z axis')
   jupyter notebook
 ```
 
+
 # Загрузка файлов
 Для загрузки данных и скрипта необходимо выполнить следующие команды:
 ```cmd
-  curl -o gyro_data.csv [https://raw.githubusercontent.com/zgonn1k/gyro/main/gyro_data.csv](https://raw.githubusercontent.com/zgonn1k/gyro/main/gyro_data.csv "https://raw.githubusercontent.com/zgonn1k/gyro/main/gyro_data.csv")
+  curl -o gyro_data.csv https://raw.githubusercontent.com/zgonn1k/gyro/main/gyro_data.csv
 ```
 ```cmd
-  curl -o Gyro.ipynb [https://raw.githubusercontent.com/zgonn1k/gyro/main/Gyro.ipynb](https://raw.githubusercontent.com/zgonn1k/gyro/main/Gyro.ipynb "https://raw.githubusercontent.com/zgonn1k/gyro/main/Gyro.ipynb")
+  curl -o Gyro.ipynb https://raw.githubusercontent.com/zgonn1k/gyro/main/Gyro.ipynb
 ```
