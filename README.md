@@ -19,7 +19,7 @@
 
 # Схема обработки данных с гироскопа
 
-![png](Image_DataDriven.png)
+![png](images/Image_DataDriven.png)
 
 # Главное окно программы 
 
