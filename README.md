@@ -23,7 +23,7 @@
 
 # Главное окно программы 
 
-![png](veryslot-main-window.png)
+![png](images/veryslot-main-window.png)
 
 ## Добавление модулей
 - Для связи с гироскопом используется модуль __Contral Constance__
@@ -31,11 +31,11 @@
 - Для отображения данных в виде таблицы используется модуль __Table__
 - Для записи данных на жёсткий диск используется модуль __File__ 
 
-![png](veryslot.png)
+![png](images/veryslot.png)
 
 ## Визуализация данных в виде графика и таблицы
 
-![jpg](Chart.jpg)
+![jpg](images/Chart.jpg)
 
 ___
 В меню модуля __Contral Constance__ можно: 
@@ -43,7 +43,7 @@ ___
 - задать время записи
 - отправить управляющую команду на устройство 
 
-![png](CC.png)
+![png](images/CC.png)
 
 
 # Анализ данных с гироскопа
@@ -177,7 +177,7 @@ printSignal(gyro_x, N, 'X axis')
 
 
     
-![png](output_7_0.png)
+![png](images/output_7_0.png)
     
 
 
@@ -191,7 +191,7 @@ printSignal(gyro_y, N, 'Y axis')
 
 
     
-![png](output_9_0.png)
+![png](images/output_9_0.png)
     
 
 
@@ -205,7 +205,7 @@ printSignal(gyro_z, N, 'Z axis')
 
 
     
-![png](output_11_0.png)
+![png](images/output_11_0.png)
     
 
 
@@ -248,7 +248,7 @@ printPDF(gyro_x, N, 'X axis')
 
 
     
-![png](output_17_0.png)
+![png](images/output_17_0.png)
     
 
 
@@ -261,7 +261,7 @@ printPDF(gyro_y, N, 'Y axis')
 
 
     
-![png](output_19_0.png)
+![png](images/output_19_0.png)
     
 
 
@@ -274,7 +274,7 @@ printPDF(gyro_z, N, 'Z axis')
 
 
     
-![png](output_21_0.png)
+![png](images/output_21_0.png)
     
 
 
@@ -312,7 +312,7 @@ printSpectrum(gyro_x, N, 'X axis')
 
 
     
-![png](output_27_0.png)
+![png](images/output_27_0.png)
     
 
 
@@ -325,7 +325,7 @@ printSpectrum(gyro_y, N, 'Y axis')
 
 
     
-![png](output_29_0.png)
+![png](images/output_29_0.png)
     
 
 
@@ -338,7 +338,7 @@ printSpectrum(gyro_z, N, 'Z axis')
 
 
     
-![png](output_31_0.png)
+![png](images/output_31_0.png)
     
 
 
